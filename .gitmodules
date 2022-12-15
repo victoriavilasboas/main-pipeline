@@ -1,0 +1,3 @@
+[submodule "sub-pipeline"]
+	path = sub-pipeline
+	url = git@github.com:victoriavilasboas/sub-pipeline.git
